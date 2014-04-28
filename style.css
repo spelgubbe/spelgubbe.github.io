@@ -1,7 +1,7 @@
 * {margin: 0; padding: 0;}
 html, body { font-family: exo; height: 100%; width: 100%; font-size: 160px; } /*unlimited y-axis, max 1.0 x-axis*/
 body {
-  background-image: url("bg.jpg");
+  background-image: url("bg2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
